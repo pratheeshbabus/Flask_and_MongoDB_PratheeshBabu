@@ -1,0 +1,18 @@
+
+[
+    {
+        "id": 1,
+        "name": "Flask",
+        "description": "Python web framework"
+    },
+    {
+        "id": 2,
+        "name": "MongoDB",
+        "description": "NoSQL database"
+    },
+    {
+        "id": 3,
+        "name": "Python",
+        "description": "Programming language"
+    }
+]
